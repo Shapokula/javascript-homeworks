@@ -47,6 +47,6 @@ function getTriangle(a, b, c) {
 			get perimeter() {
 				return ("Ошибка! Треугольник не существует");
 			}
-		}
+		};
 	}
 }
